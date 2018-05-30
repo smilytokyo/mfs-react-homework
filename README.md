@@ -12,7 +12,7 @@
 
 20180525第三次作业
 
-[代码题1-3,5-7](https://github.com/smilytokyo/mfs-react-homework/tree/master/homework-3)
+[代码题1-3,5-10](https://github.com/smilytokyo/mfs-react-homework/tree/master/homework-3)
 
 20180525第四次作业
 
