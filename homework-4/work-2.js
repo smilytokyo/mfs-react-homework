@@ -4,9 +4,14 @@ class Circle{
         this.x = x;
         this.y = y;
         this.r = r;
+        this.a = Math.PI*this.r*this.r;
     }
-    area(){
-        return Math.PI*this.r*this.r;
+    set area(value){
+        this.a = value
+    }
+    get area(){
+        return this.a;
     }
 }
-var c = new Circle(1,2,10);
+var cricle = new Circle(1,2,10);
+console.log(cricle.area)
